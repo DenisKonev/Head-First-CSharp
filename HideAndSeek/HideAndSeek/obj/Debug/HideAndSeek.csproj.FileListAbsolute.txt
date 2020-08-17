@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.Form1.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\HideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\HideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\HideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.pdb

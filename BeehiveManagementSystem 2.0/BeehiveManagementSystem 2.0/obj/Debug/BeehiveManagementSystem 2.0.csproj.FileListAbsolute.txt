@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\BeehiveManagementSystem 2.0\BeehiveManagementSystem 2.0\obj\Debug\BeehiveManagementSystem 2.0.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\BeehiveManagementSystem 2.0\BeehiveManagementSystem 2.0\obj\Debug\BeehiveManagementSystem.Form1.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\BeehiveManagementSystem 2.0\BeehiveManagementSystem 2.0\obj\Debug\BeehiveManagementSystem.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\BeehiveManagementSystem 2.0\BeehiveManagementSystem 2.0\obj\Debug\BeehiveManagementSystem 2.0.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\BeehiveManagementSystem 2.0\BeehiveManagementSystem 2.0\obj\Debug\BeehiveManagementSystem 2.0.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\BeehiveManagementSystem 2.0\BeehiveManagementSystem 2.0\obj\Debug\BeehiveManagementSystem.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\BeehiveManagementSystem 2.0\BeehiveManagementSystem 2.0\obj\Debug\BeehiveManagementSystem.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\BeehiveManagementSystem 2.0\BeehiveManagementSystem 2.0\bin\Debug\BeehiveManagementSystem.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\BeehiveManagementSystem 2.0\BeehiveManagementSystem 2.0\bin\Debug\BeehiveManagementSystem.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\BeehiveManagementSystem 2.0\BeehiveManagementSystem 2.0\bin\Debug\BeehiveManagementSystem.pdb

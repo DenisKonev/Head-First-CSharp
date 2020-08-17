@@ -1,0 +1,13 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\obj\Debug\netcoreapp3.1\JewelThief.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\obj\Debug\netcoreapp3.1\JewelThief.AssemblyInfoInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\obj\Debug\netcoreapp3.1\JewelThief.AssemblyInfo.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\obj\Debug\netcoreapp3.1\JewelThief.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\bin\Debug\netcoreapp3.1\JewelThief.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\bin\Debug\netcoreapp3.1\JewelThief.deps.json
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\bin\Debug\netcoreapp3.1\JewelThief.runtimeconfig.json
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\bin\Debug\netcoreapp3.1\JewelThief.runtimeconfig.dev.json
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\bin\Debug\netcoreapp3.1\JewelThief.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\bin\Debug\netcoreapp3.1\JewelThief.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\obj\Debug\netcoreapp3.1\JewelThief.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\obj\Debug\netcoreapp3.1\JewelThief.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\JewelThief\JewelThief\obj\Debug\netcoreapp3.1\JewelThief.genruntimeconfig.cache

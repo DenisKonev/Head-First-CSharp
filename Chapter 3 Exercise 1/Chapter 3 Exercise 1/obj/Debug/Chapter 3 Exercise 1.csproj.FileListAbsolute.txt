@@ -1,0 +1,10 @@
+C:\Users\PhoEniX\source\repos\Chapter 3 Exercise 1\Chapter 3 Exercise 1\bin\Debug\Chapter 3 Exercise 1.exe.config
+C:\Users\PhoEniX\source\repos\Chapter 3 Exercise 1\Chapter 3 Exercise 1\bin\Debug\Chapter 3 Exercise 1.exe
+C:\Users\PhoEniX\source\repos\Chapter 3 Exercise 1\Chapter 3 Exercise 1\bin\Debug\Chapter 3 Exercise 1.pdb
+C:\Users\PhoEniX\source\repos\Chapter 3 Exercise 1\Chapter 3 Exercise 1\obj\Debug\Chapter 3 Exercise 1.csprojAssemblyReference.cache
+C:\Users\PhoEniX\source\repos\Chapter 3 Exercise 1\Chapter 3 Exercise 1\obj\Debug\Chapter_3_Exercise_1.Form1.resources
+C:\Users\PhoEniX\source\repos\Chapter 3 Exercise 1\Chapter 3 Exercise 1\obj\Debug\Chapter_3_Exercise_1.Properties.Resources.resources
+C:\Users\PhoEniX\source\repos\Chapter 3 Exercise 1\Chapter 3 Exercise 1\obj\Debug\Chapter 3 Exercise 1.csproj.GenerateResource.cache
+C:\Users\PhoEniX\source\repos\Chapter 3 Exercise 1\Chapter 3 Exercise 1\obj\Debug\Chapter 3 Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\PhoEniX\source\repos\Chapter 3 Exercise 1\Chapter 3 Exercise 1\obj\Debug\Chapter 3 Exercise 1.exe
+C:\Users\PhoEniX\source\repos\Chapter 3 Exercise 1\Chapter 3 Exercise 1\obj\Debug\Chapter 3 Exercise 1.pdb

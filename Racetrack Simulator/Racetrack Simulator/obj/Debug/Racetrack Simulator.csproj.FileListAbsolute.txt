@@ -1,0 +1,64 @@
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.exe.config
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.exe
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.pdb
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csprojAssemblyReference.cache
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\App.g.cs
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator_MarkupCompile.cache
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator_MarkupCompile.lref
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\MainWindow.baml
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.g.resources
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack_Simulator.Properties.Resources.resources
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csproj.GenerateResource.cache
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csproj.CoreCompileInputs.cache
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.exe
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.pdb
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\PhoEniX\source\repos\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csproj.CopyComplete
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\MainWindow.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\App.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator_MarkupCompile.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator_MarkupCompile.lref
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\MainWindow.baml
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.g.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack_Simulator.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csproj.CopyComplete
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.pdb

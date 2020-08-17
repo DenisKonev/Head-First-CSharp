@@ -1,0 +1,10 @@
+C:\Users\PhoEniX\source\repos\BouncingLabels\BouncingLabels\bin\Debug\BouncingLabels.exe.config
+C:\Users\PhoEniX\source\repos\BouncingLabels\BouncingLabels\bin\Debug\BouncingLabels.exe
+C:\Users\PhoEniX\source\repos\BouncingLabels\BouncingLabels\bin\Debug\BouncingLabels.pdb
+C:\Users\PhoEniX\source\repos\BouncingLabels\BouncingLabels\obj\Debug\BouncingLabels.csprojAssemblyReference.cache
+C:\Users\PhoEniX\source\repos\BouncingLabels\BouncingLabels\obj\Debug\BouncingLabels.Form1.resources
+C:\Users\PhoEniX\source\repos\BouncingLabels\BouncingLabels\obj\Debug\BouncingLabels.Properties.Resources.resources
+C:\Users\PhoEniX\source\repos\BouncingLabels\BouncingLabels\obj\Debug\BouncingLabels.csproj.GenerateResource.cache
+C:\Users\PhoEniX\source\repos\BouncingLabels\BouncingLabels\obj\Debug\BouncingLabels.csproj.CoreCompileInputs.cache
+C:\Users\PhoEniX\source\repos\BouncingLabels\BouncingLabels\obj\Debug\BouncingLabels.exe
+C:\Users\PhoEniX\source\repos\BouncingLabels\BouncingLabels\obj\Debug\BouncingLabels.pdb

@@ -1,0 +1,14 @@
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.cache
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.g.resources
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\obj\Debug\Save_the_Humans.Properties.Resources.resources
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.GenerateResource.cache
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.CoreCompileInputs.cache
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csprojAssemblyReference.cache
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\obj\Debug\MainWindow.baml
+C:\Users\PhoEniX\source\repos\Save the Humans\Save the Humans\obj\Debug\MainWindow.g.cs

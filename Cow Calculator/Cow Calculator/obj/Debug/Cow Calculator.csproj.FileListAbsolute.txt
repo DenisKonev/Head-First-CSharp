@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Cow Calculator\Cow Calculator\bin\Debug\Cow Calculator.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Cow Calculator\Cow Calculator\bin\Debug\Cow Calculator.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Cow Calculator\Cow Calculator\bin\Debug\Cow Calculator.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Cow Calculator\Cow Calculator\obj\Debug\Cow Calculator.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Cow Calculator\Cow Calculator\obj\Debug\Cow_Calculator.Form1.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Cow Calculator\Cow Calculator\obj\Debug\Cow_Calculator.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Cow Calculator\Cow Calculator\obj\Debug\Cow Calculator.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Cow Calculator\Cow Calculator\obj\Debug\Cow Calculator.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Cow Calculator\Cow Calculator\obj\Debug\Cow Calculator.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Cow Calculator\Cow Calculator\obj\Debug\Cow Calculator.pdb

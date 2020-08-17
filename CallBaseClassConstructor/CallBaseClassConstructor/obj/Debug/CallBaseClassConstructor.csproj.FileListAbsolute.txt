@@ -1,0 +1,20 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.Form1.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\CallBaseClassConstructor\CallBaseClassConstructor\bin\Debug\CallBaseClassConstructor.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\CallBaseClassConstructor\CallBaseClassConstructor\bin\Debug\CallBaseClassConstructor.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\CallBaseClassConstructor\CallBaseClassConstructor\bin\Debug\CallBaseClassConstructor.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\CallBaseClassConstructor\CallBaseClassConstructor\bin\Debug\CallBaseClassConstructor.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\CallBaseClassConstructor\CallBaseClassConstructor\bin\Debug\CallBaseClassConstructor.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\CallBaseClassConstructor\CallBaseClassConstructor\bin\Debug\CallBaseClassConstructor.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.Form1.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\CallBaseClassConstructor\CallBaseClassConstructor\obj\Debug\CallBaseClassConstructor.pdb

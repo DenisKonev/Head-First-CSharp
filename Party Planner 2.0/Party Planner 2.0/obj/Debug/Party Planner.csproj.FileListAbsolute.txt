@@ -1,0 +1,20 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner\Party Planner\bin\Debug\Party Planner.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner\Party Planner\bin\Debug\Party Planner.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner\Party Planner\bin\Debug\Party Planner.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner\Party Planner\obj\Debug\Party Planner.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner\Party Planner\obj\Debug\Party_Planner.Form1.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner\Party Planner\obj\Debug\Party_Planner.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner\Party Planner\obj\Debug\Party Planner.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner\Party Planner\obj\Debug\Party Planner.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner\Party Planner\obj\Debug\Party Planner.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner\Party Planner\obj\Debug\Party Planner.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner (Updated)\Party Planner\bin\Debug\Party Planner (Updated).exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner (Updated)\Party Planner\bin\Debug\Party Planner (Updated).exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner (Updated)\Party Planner\bin\Debug\Party Planner (Updated).pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner (Updated)\Party Planner\obj\Debug\Party Planner.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner (Updated)\Party Planner\obj\Debug\Party_Planner.Form1.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner (Updated)\Party Planner\obj\Debug\Party_Planner_Updated.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner (Updated)\Party Planner\obj\Debug\Party Planner.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner (Updated)\Party Planner\obj\Debug\Party Planner.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner (Updated)\Party Planner\obj\Debug\Party Planner (Updated).exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Party Planner (Updated)\Party Planner\obj\Debug\Party Planner (Updated).pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Party Planner 2.0", "Party Planner 2.0\Party Planner 2.0.csproj", "{B1578766-BF31-4C9C-A7D3-594BBF9DE36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1578766-BF31-4C9C-A7D3-594BBF9DE36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1578766-BF31-4C9C-A7D3-594BBF9DE36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1578766-BF31-4C9C-A7D3-594BBF9DE36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1578766-BF31-4C9C-A7D3-594BBF9DE36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF42B51E-3E50-4CFA-9973-105A10E05196}
+	EndGlobalSection
+EndGlobal

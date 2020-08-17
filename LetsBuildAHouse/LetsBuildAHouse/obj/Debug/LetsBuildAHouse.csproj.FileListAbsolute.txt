@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\LetsBuildAHouse\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\LetsBuildAHouse\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.Form1.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\LetsBuildAHouse\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\LetsBuildAHouse\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\LetsBuildAHouse\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\LetsBuildAHouse\LetsBuildAHouse\bin\Debug\LetsBuildAHouse.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\LetsBuildAHouse\LetsBuildAHouse\bin\Debug\LetsBuildAHouse.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\LetsBuildAHouse\LetsBuildAHouse\bin\Debug\LetsBuildAHouse.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\LetsBuildAHouse\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\LetsBuildAHouse\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.pdb

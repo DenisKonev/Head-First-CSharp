@@ -1,0 +1,10 @@
+C:\Users\PhoEniX\source\repos\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.exe.config
+C:\Users\PhoEniX\source\repos\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.exe
+C:\Users\PhoEniX\source\repos\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.pdb
+C:\Users\PhoEniX\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csprojAssemblyReference.cache
+C:\Users\PhoEniX\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage_Calculator.Form1.resources
+C:\Users\PhoEniX\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage_Calculator.Properties.Resources.resources
+C:\Users\PhoEniX\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csproj.GenerateResource.cache
+C:\Users\PhoEniX\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PhoEniX\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.exe
+C:\Users\PhoEniX\source\repos\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.pdb

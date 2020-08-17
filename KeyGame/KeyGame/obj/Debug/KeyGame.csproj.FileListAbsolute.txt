@@ -1,0 +1,10 @@
+C:\Users\PhoEniX\source\repos\KeyGame\KeyGame\bin\Debug\KeyGame.exe.config
+C:\Users\PhoEniX\source\repos\KeyGame\KeyGame\bin\Debug\KeyGame.exe
+C:\Users\PhoEniX\source\repos\KeyGame\KeyGame\bin\Debug\KeyGame.pdb
+C:\Users\PhoEniX\source\repos\KeyGame\KeyGame\obj\Debug\KeyGame.csprojAssemblyReference.cache
+C:\Users\PhoEniX\source\repos\KeyGame\KeyGame\obj\Debug\KeyGame.Form1.resources
+C:\Users\PhoEniX\source\repos\KeyGame\KeyGame\obj\Debug\KeyGame.Properties.Resources.resources
+C:\Users\PhoEniX\source\repos\KeyGame\KeyGame\obj\Debug\KeyGame.csproj.GenerateResource.cache
+C:\Users\PhoEniX\source\repos\KeyGame\KeyGame\obj\Debug\KeyGame.csproj.CoreCompileInputs.cache
+C:\Users\PhoEniX\source\repos\KeyGame\KeyGame\obj\Debug\KeyGame.exe
+C:\Users\PhoEniX\source\repos\KeyGame\KeyGame\obj\Debug\KeyGame.pdb

@@ -1,0 +1,13 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.deps.json
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.runtimeconfig.json
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.runtimeconfig.dev.json
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\bin\Debug\netcoreapp3.1\Interfaces1.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.AssemblyInfoInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.AssemblyInfo.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Projects\Head First C#\Interfaces1\Interfaces1\obj\Debug\netcoreapp3.1\Interfaces1.genruntimeconfig.cache
