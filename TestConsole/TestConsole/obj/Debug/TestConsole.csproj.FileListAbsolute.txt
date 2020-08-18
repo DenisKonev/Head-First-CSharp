@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TestConsole\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
