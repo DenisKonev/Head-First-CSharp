@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.pdb
