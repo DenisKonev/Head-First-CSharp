@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ShoeCloset\ShoeCloset\bin\Debug\ShoeCloset.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ShoeCloset\ShoeCloset\bin\Debug\ShoeCloset.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ShoeCloset\ShoeCloset\bin\Debug\ShoeCloset.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ShoeCloset\ShoeCloset\obj\Debug\ShoeCloset.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ShoeCloset\ShoeCloset\obj\Debug\ShoeCloset.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ShoeCloset\ShoeCloset\obj\Debug\ShoeCloset.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ShoeCloset\ShoeCloset\obj\Debug\ShoeCloset.pdb
