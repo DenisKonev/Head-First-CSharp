@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Ducks\List of Ducks\obj\Debug\List of Ducks.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Ducks\List of Ducks\obj\Debug\List of Ducks.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Ducks\List of Ducks\bin\Debug\List of Ducks.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Ducks\List of Ducks\bin\Debug\List of Ducks.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Ducks\List of Ducks\bin\Debug\List of Ducks.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Ducks\List of Ducks\obj\Debug\List of Ducks.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Ducks\List of Ducks\obj\Debug\List of Ducks.pdb
