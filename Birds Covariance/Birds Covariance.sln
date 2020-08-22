@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birds Covariance", "Birds Covariance\Birds Covariance.csproj", "{EABF119D-239F-4ABC-92AA-3B6340325BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABF119D-239F-4ABC-92AA-3B6340325BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABF119D-239F-4ABC-92AA-3B6340325BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABF119D-239F-4ABC-92AA-3B6340325BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABF119D-239F-4ABC-92AA-3B6340325BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD8DAE4-5A6D-4D4F-9669-DB35BB6A62AE}
+	EndGlobalSection
+EndGlobal

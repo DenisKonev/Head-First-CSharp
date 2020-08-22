@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Card Class Overloaded Methods\Card Class Overloaded Methods\obj\Debug\Card Class Overloaded Methods.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Card Class Overloaded Methods\Card Class Overloaded Methods\bin\Debug\Card Class Overloaded Methods.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Card Class Overloaded Methods\Card Class Overloaded Methods\bin\Debug\Card Class Overloaded Methods.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Card Class Overloaded Methods\Card Class Overloaded Methods\bin\Debug\Card Class Overloaded Methods.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Card Class Overloaded Methods\Card Class Overloaded Methods\obj\Debug\Card Class Overloaded Methods.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Card Class Overloaded Methods\Card Class Overloaded Methods\obj\Debug\Card Class Overloaded Methods.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Card Class Overloaded Methods\Card Class Overloaded Methods\obj\Debug\Card Class Overloaded Methods.csprojAssemblyReference.cache

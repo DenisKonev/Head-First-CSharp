@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Birds Covariance\Birds Covariance\bin\Debug\Birds Covariance.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Birds Covariance\Birds Covariance\bin\Debug\Birds Covariance.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Birds Covariance\Birds Covariance\bin\Debug\Birds Covariance.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Birds Covariance\Birds Covariance\obj\Debug\Birds Covariance.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Birds Covariance\Birds Covariance\obj\Debug\Birds Covariance.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Birds Covariance\Birds Covariance\obj\Debug\Birds Covariance.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Birds Covariance\Birds Covariance\obj\Debug\Birds Covariance.pdb

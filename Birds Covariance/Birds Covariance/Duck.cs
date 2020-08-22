@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace List_of_Ducks
+namespace Birds_Covariance
 {
-    class Duck :IComparable<Duck>
+    class Duck : Bird, IComparable<Duck>
     {
         public int Size;
         public KindOfDuck Kind;

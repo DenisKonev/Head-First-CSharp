@@ -19,7 +19,7 @@ namespace List_of_Cards
             for (int i = 0; i < 10; i++)
             {
                 cards.Add(new Card((Suits)random.Next(4), (Values)random.Next(1, 14)));
-                Console.WriteLine(cards[i].Name);
+                Console.WriteLine(cards[i]);
             }
             
             Console.WriteLine();
@@ -28,7 +28,7 @@ namespace List_of_Cards
             cards.Sort(new CardComparer_byValue());
             
             foreach (Card card in cards)
-                Console.WriteLine(card.Name);
+                Console.WriteLine(card);
             Console.ReadKey();
         }
     }
