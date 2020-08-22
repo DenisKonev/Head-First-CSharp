@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Cards\List of Cards\bin\Debug\List of Cards.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Cards\List of Cards\bin\Debug\List of Cards.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Cards\List of Cards\bin\Debug\List of Cards.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Cards\List of Cards\obj\Debug\List of Cards.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Cards\List of Cards\obj\Debug\List of Cards.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Cards\List of Cards\obj\Debug\List of Cards.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\List of Cards\List of Cards\obj\Debug\List of Cards.pdb
