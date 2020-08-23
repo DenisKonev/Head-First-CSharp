@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Retired Jersey Numbers\Retired Jersey Numbers\bin\Debug\Retired Jersey Numbers.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Retired Jersey Numbers\Retired Jersey Numbers\bin\Debug\Retired Jersey Numbers.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Retired Jersey Numbers\Retired Jersey Numbers\bin\Debug\Retired Jersey Numbers.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired Jersey Numbers.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired_Jersey_Numbers.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired_Jersey_Numbers.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired Jersey Numbers.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired Jersey Numbers.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired Jersey Numbers.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Retired Jersey Numbers\Retired Jersey Numbers\obj\Debug\Retired Jersey Numbers.pdb
