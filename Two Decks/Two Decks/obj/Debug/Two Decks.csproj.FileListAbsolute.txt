@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Two Decks\Two Decks\bin\Debug\Two Decks.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Two Decks\Two Decks\bin\Debug\Two Decks.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Two Decks\Two Decks\bin\Debug\Two Decks.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Two Decks\Two Decks\obj\Debug\Two Decks.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Two Decks\Two Decks\obj\Debug\Two_Decks.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Two Decks\Two Decks\obj\Debug\Two_Decks.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Two Decks\Two Decks\obj\Debug\Two Decks.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Two Decks\Two Decks\obj\Debug\Two Decks.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Two Decks\Two Decks\obj\Debug\Two Decks.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Two Decks\Two Decks\obj\Debug\Two Decks.pdb
