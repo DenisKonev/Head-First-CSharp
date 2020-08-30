@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFish\GoFish\bin\Debug\GoFish.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFish\GoFish\bin\Debug\GoFish.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFish\GoFish\bin\Debug\GoFish.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFish\GoFish\obj\Debug\GoFish.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFish\GoFish\obj\Debug\GoFish.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFish\GoFish\obj\Debug\GoFish.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFish\GoFish\obj\Debug\GoFish.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFish\GoFish\obj\Debug\GoFish.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFish\GoFish\obj\Debug\GoFish.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFish\GoFish\obj\Debug\GoFish.pdb
