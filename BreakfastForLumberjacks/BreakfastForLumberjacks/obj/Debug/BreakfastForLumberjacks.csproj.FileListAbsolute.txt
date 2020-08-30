@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\BreakfastForLumberjacks\BreakfastForLumberjacks\bin\Debug\BreakfastForLumberjacks.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\BreakfastForLumberjacks\BreakfastForLumberjacks\bin\Debug\BreakfastForLumberjacks.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\BreakfastForLumberjacks\BreakfastForLumberjacks\bin\Debug\BreakfastForLumberjacks.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\BreakfastForLumberjacks\BreakfastForLumberjacks\obj\Debug\BreakfastForLumberjacks.pdb
