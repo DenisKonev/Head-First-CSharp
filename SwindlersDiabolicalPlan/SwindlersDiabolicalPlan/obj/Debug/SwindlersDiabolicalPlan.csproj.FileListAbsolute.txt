@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SwindlersDiabolicalPlan\SwindlersDiabolicalPlan\bin\Debug\SwindlersDiabolicalPlan.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SwindlersDiabolicalPlan\SwindlersDiabolicalPlan\bin\Debug\SwindlersDiabolicalPlan.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SwindlersDiabolicalPlan\SwindlersDiabolicalPlan\bin\Debug\SwindlersDiabolicalPlan.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SwindlersDiabolicalPlan\SwindlersDiabolicalPlan\obj\Debug\SwindlersDiabolicalPlan.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SwindlersDiabolicalPlan\SwindlersDiabolicalPlan\obj\Debug\SwindlersDiabolicalPlan.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SwindlersDiabolicalPlan\SwindlersDiabolicalPlan\obj\Debug\SwindlersDiabolicalPlan.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SwindlersDiabolicalPlan\SwindlersDiabolicalPlan\obj\Debug\SwindlersDiabolicalPlan.pdb
