@@ -48,6 +48,7 @@ namespace GoFish
             textProgress.Text = "";
             if (listHand.SelectedIndex < 0)
             {
+                UpdateForm();
                 MessageBox.Show("Please select a card");
                 return;
             }
