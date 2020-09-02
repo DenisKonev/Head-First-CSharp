@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
