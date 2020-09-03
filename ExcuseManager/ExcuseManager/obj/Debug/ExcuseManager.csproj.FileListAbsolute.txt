@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager\ExcuseManager\bin\Debug\ExcuseManager.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager\ExcuseManager\bin\Debug\ExcuseManager.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager\ExcuseManager\bin\Debug\ExcuseManager.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.pdb
