@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SerializeADeckOfCards\SerializeADeckOfCards\bin\Debug\SerializeADeckOfCards.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SerializeADeckOfCards\SerializeADeckOfCards\bin\Debug\SerializeADeckOfCards.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SerializeADeckOfCards\SerializeADeckOfCards\bin\Debug\SerializeADeckOfCards.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.pdb
