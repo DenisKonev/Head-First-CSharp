@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\FunWithJoeAndBob_Serialized\FunWithJoeAndBob_Serialized\bin\Debug\Chapter 3 Exercise 2.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\FunWithJoeAndBob_Serialized\FunWithJoeAndBob_Serialized\bin\Debug\Chapter 3 Exercise 2.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\FunWithJoeAndBob_Serialized\FunWithJoeAndBob_Serialized\bin\Debug\Chapter 3 Exercise 2.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\FunWithJoeAndBob_Serialized\FunWithJoeAndBob_Serialized\obj\Debug\FunWithJoeAndBob_Serialized.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\FunWithJoeAndBob_Serialized\FunWithJoeAndBob_Serialized\obj\Debug\Chapter_3_Exercise_2.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\FunWithJoeAndBob_Serialized\FunWithJoeAndBob_Serialized\obj\Debug\Chapter_3_Exercise_2.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\FunWithJoeAndBob_Serialized\FunWithJoeAndBob_Serialized\obj\Debug\FunWithJoeAndBob_Serialized.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\FunWithJoeAndBob_Serialized\FunWithJoeAndBob_Serialized\obj\Debug\FunWithJoeAndBob_Serialized.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\FunWithJoeAndBob_Serialized\FunWithJoeAndBob_Serialized\obj\Debug\Chapter 3 Exercise 2.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\FunWithJoeAndBob_Serialized\FunWithJoeAndBob_Serialized\obj\Debug\Chapter 3 Exercise 2.pdb
