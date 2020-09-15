@@ -38,11 +38,10 @@ namespace ExcuseManager
         }
         public void Save(string fileName) 
         {
-            using (StreamWriter writer = new StreamWriter(fileName))
+            BinaryFormatter formatter = new BinaryFormatter();
+            using (Stream output = File.OpenWrite(fileName))
             {
-                writer.WriteLine(Description);
-                writer.WriteLine(Results);
-                writer.WriteLine(LastUsed);
+                formatter.Serialize(output, this);
             }
         }
     }

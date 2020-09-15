@@ -71,11 +71,7 @@ namespace ExcuseManager
             DialogResult result = saveFileDialog1.ShowDialog();
             if (result == DialogResult.OK)
             {
-                using (Stream output = File.Create(saveFileDialog1.FileName))
-                {
-                    BinaryFormatter formatter = new BinaryFormatter();
-                    formatter.Serialize(output, currentExcuse);
-                }
+                currentExcuse.Save(saveFileDialog1.FileName);
                 UpdateForm(false);
                 MessageBox.Show("Excuse written");
             }
@@ -91,11 +87,7 @@ namespace ExcuseManager
                 DialogResult result = openFileDialog1.ShowDialog();
                 if (result == DialogResult.OK)
                 {
-                    using (Stream input = File.OpenRead(openFileDialog1.FileName))
-                    {
-                        BinaryFormatter formatter = new BinaryFormatter();
-                        currentExcuse = (Excuse)formatter.Deserialize(input);
-                    }
+                    currentExcuse = new Excuse(openFileDialog1.FileName);
                     UpdateForm(false);
                 }
             }
