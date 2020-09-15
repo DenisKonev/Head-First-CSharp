@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager_Serialized\ExcuseManager_Serialized\bin\Debug\ExcuseManager.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager_Serialized\ExcuseManager_Serialized\bin\Debug\ExcuseManager.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager_Serialized\ExcuseManager_Serialized\bin\Debug\ExcuseManager.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager_Serialized\ExcuseManager_Serialized\obj\Debug\ExcuseManager_Serialized.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager_Serialized\ExcuseManager_Serialized\obj\Debug\ExcuseManager.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager_Serialized\ExcuseManager_Serialized\obj\Debug\ExcuseManager.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager_Serialized\ExcuseManager_Serialized\obj\Debug\ExcuseManager_Serialized.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager_Serialized\ExcuseManager_Serialized\obj\Debug\ExcuseManager_Serialized.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager_Serialized\ExcuseManager_Serialized\obj\Debug\ExcuseManager.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExcuseManager_Serialized\ExcuseManager_Serialized\obj\Debug\ExcuseManager.pdb
