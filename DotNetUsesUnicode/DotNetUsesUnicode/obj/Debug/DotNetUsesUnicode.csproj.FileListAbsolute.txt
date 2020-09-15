@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DotNetUsesUnicode\DotNetUsesUnicode\bin\Debug\DotNetUsesUnicode.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DotNetUsesUnicode\DotNetUsesUnicode\bin\Debug\DotNetUsesUnicode.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DotNetUsesUnicode\DotNetUsesUnicode\bin\Debug\DotNetUsesUnicode.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.pdb
