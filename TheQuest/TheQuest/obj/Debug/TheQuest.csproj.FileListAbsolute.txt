@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TheQuest\TheQuest\bin\Debug\TheQuest.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TheQuest\TheQuest\bin\Debug\TheQuest.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TheQuest\TheQuest\bin\Debug\TheQuest.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TheQuest\TheQuest\obj\Debug\TheQuest.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TheQuest\TheQuest\obj\Debug\TheQuest.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TheQuest\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TheQuest\TheQuest\obj\Debug\TheQuest.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\TheQuest\TheQuest\obj\Debug\TheQuest.pdb
