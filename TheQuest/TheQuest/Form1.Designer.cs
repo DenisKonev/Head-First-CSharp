@@ -28,15 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.player = new System.Windows.Forms.PictureBox();
-            this.bat = new System.Windows.Forms.PictureBox();
-            this.ghost = new System.Windows.Forms.PictureBox();
-            this.gnoul = new System.Windows.Forms.PictureBox();
-            this.bluePotion = new System.Windows.Forms.PictureBox();
-            this.redPotion = new System.Windows.Forms.PictureBox();
-            this.sword = new System.Windows.Forms.PictureBox();
-            this.bow = new System.Windows.Forms.PictureBox();
-            this.mace = new System.Windows.Forms.PictureBox();
+            this.playerSprite = new System.Windows.Forms.PictureBox();
+            this.batSprite = new System.Windows.Forms.PictureBox();
+            this.ghostSprite = new System.Windows.Forms.PictureBox();
+            this.gnoulSprite = new System.Windows.Forms.PictureBox();
+            this.bluePotionSprite = new System.Windows.Forms.PictureBox();
+            this.redPotionSprite = new System.Windows.Forms.PictureBox();
+            this.swordSprite = new System.Windows.Forms.PictureBox();
+            this.bowSprite = new System.Windows.Forms.PictureBox();
+            this.maceSprite = new System.Windows.Forms.PictureBox();
             this.swordInv = new System.Windows.Forms.PictureBox();
             this.bowInv = new System.Windows.Forms.PictureBox();
             this.maceInv = new System.Windows.Forms.PictureBox();
@@ -61,15 +61,15 @@
             this.attackRightButton = new System.Windows.Forms.Button();
             this.attackUpButton = new System.Windows.Forms.Button();
             this.attackLeftButton = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.player)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bat)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ghost)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gnoul)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bluePotion)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.redPotion)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.sword)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bow)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.mace)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.playerSprite)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.batSprite)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ghostSprite)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gnoulSprite)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bluePotionSprite)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.redPotionSprite)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.swordSprite)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bowSprite)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.maceSprite)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.swordInv)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bowInv)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.maceInv)).BeginInit();
@@ -80,104 +80,104 @@
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
-            // player
+            // playerSprite
             // 
-            this.player.BackColor = System.Drawing.Color.Transparent;
-            this.player.BackgroundImage = global::TheQuest.Properties.Resources.player;
-            this.player.Location = new System.Drawing.Point(154, 125);
-            this.player.Name = "player";
-            this.player.Size = new System.Drawing.Size(50, 50);
-            this.player.TabIndex = 0;
-            this.player.TabStop = false;
-            this.player.Visible = false;
+            this.playerSprite.BackColor = System.Drawing.Color.Transparent;
+            this.playerSprite.BackgroundImage = global::TheQuest.Properties.Resources.player;
+            this.playerSprite.Location = new System.Drawing.Point(154, 125);
+            this.playerSprite.Name = "playerSprite";
+            this.playerSprite.Size = new System.Drawing.Size(50, 50);
+            this.playerSprite.TabIndex = 0;
+            this.playerSprite.TabStop = false;
+            this.playerSprite.Visible = false;
             // 
-            // bat
+            // batSprite
             // 
-            this.bat.BackColor = System.Drawing.Color.Transparent;
-            this.bat.BackgroundImage = global::TheQuest.Properties.Resources.bat;
-            this.bat.Location = new System.Drawing.Point(210, 125);
-            this.bat.Name = "bat";
-            this.bat.Size = new System.Drawing.Size(50, 50);
-            this.bat.TabIndex = 1;
-            this.bat.TabStop = false;
-            this.bat.Visible = false;
+            this.batSprite.BackColor = System.Drawing.Color.Transparent;
+            this.batSprite.BackgroundImage = global::TheQuest.Properties.Resources.bat;
+            this.batSprite.Location = new System.Drawing.Point(210, 125);
+            this.batSprite.Name = "batSprite";
+            this.batSprite.Size = new System.Drawing.Size(50, 50);
+            this.batSprite.TabIndex = 1;
+            this.batSprite.TabStop = false;
+            this.batSprite.Visible = false;
             // 
-            // ghost
+            // ghostSprite
             // 
-            this.ghost.BackColor = System.Drawing.Color.Transparent;
-            this.ghost.BackgroundImage = global::TheQuest.Properties.Resources.ghost;
-            this.ghost.Location = new System.Drawing.Point(266, 125);
-            this.ghost.Name = "ghost";
-            this.ghost.Size = new System.Drawing.Size(50, 50);
-            this.ghost.TabIndex = 2;
-            this.ghost.TabStop = false;
-            this.ghost.Visible = false;
+            this.ghostSprite.BackColor = System.Drawing.Color.Transparent;
+            this.ghostSprite.BackgroundImage = global::TheQuest.Properties.Resources.ghost;
+            this.ghostSprite.Location = new System.Drawing.Point(266, 125);
+            this.ghostSprite.Name = "ghostSprite";
+            this.ghostSprite.Size = new System.Drawing.Size(50, 50);
+            this.ghostSprite.TabIndex = 2;
+            this.ghostSprite.TabStop = false;
+            this.ghostSprite.Visible = false;
             // 
-            // gnoul
+            // gnoulSprite
             // 
-            this.gnoul.BackColor = System.Drawing.Color.Transparent;
-            this.gnoul.BackgroundImage = global::TheQuest.Properties.Resources.ghoul;
-            this.gnoul.Location = new System.Drawing.Point(322, 125);
-            this.gnoul.Name = "gnoul";
-            this.gnoul.Size = new System.Drawing.Size(50, 50);
-            this.gnoul.TabIndex = 3;
-            this.gnoul.TabStop = false;
-            this.gnoul.Visible = false;
+            this.gnoulSprite.BackColor = System.Drawing.Color.Transparent;
+            this.gnoulSprite.BackgroundImage = global::TheQuest.Properties.Resources.ghoul;
+            this.gnoulSprite.Location = new System.Drawing.Point(322, 125);
+            this.gnoulSprite.Name = "gnoulSprite";
+            this.gnoulSprite.Size = new System.Drawing.Size(50, 50);
+            this.gnoulSprite.TabIndex = 3;
+            this.gnoulSprite.TabStop = false;
+            this.gnoulSprite.Visible = false;
             // 
-            // bluePotion
+            // bluePotionSprite
             // 
-            this.bluePotion.BackColor = System.Drawing.Color.Transparent;
-            this.bluePotion.BackgroundImage = global::TheQuest.Properties.Resources.potion_blue;
-            this.bluePotion.Location = new System.Drawing.Point(378, 125);
-            this.bluePotion.Name = "bluePotion";
-            this.bluePotion.Size = new System.Drawing.Size(50, 50);
-            this.bluePotion.TabIndex = 4;
-            this.bluePotion.TabStop = false;
-            this.bluePotion.Visible = false;
+            this.bluePotionSprite.BackColor = System.Drawing.Color.Transparent;
+            this.bluePotionSprite.BackgroundImage = global::TheQuest.Properties.Resources.potion_blue;
+            this.bluePotionSprite.Location = new System.Drawing.Point(378, 125);
+            this.bluePotionSprite.Name = "bluePotionSprite";
+            this.bluePotionSprite.Size = new System.Drawing.Size(50, 50);
+            this.bluePotionSprite.TabIndex = 4;
+            this.bluePotionSprite.TabStop = false;
+            this.bluePotionSprite.Visible = false;
             // 
-            // redPotion
+            // redPotionSprite
             // 
-            this.redPotion.BackColor = System.Drawing.Color.Transparent;
-            this.redPotion.BackgroundImage = global::TheQuest.Properties.Resources.potion_red;
-            this.redPotion.Location = new System.Drawing.Point(434, 125);
-            this.redPotion.Name = "redPotion";
-            this.redPotion.Size = new System.Drawing.Size(50, 50);
-            this.redPotion.TabIndex = 5;
-            this.redPotion.TabStop = false;
-            this.redPotion.Visible = false;
+            this.redPotionSprite.BackColor = System.Drawing.Color.Transparent;
+            this.redPotionSprite.BackgroundImage = global::TheQuest.Properties.Resources.potion_red;
+            this.redPotionSprite.Location = new System.Drawing.Point(434, 125);
+            this.redPotionSprite.Name = "redPotionSprite";
+            this.redPotionSprite.Size = new System.Drawing.Size(50, 50);
+            this.redPotionSprite.TabIndex = 5;
+            this.redPotionSprite.TabStop = false;
+            this.redPotionSprite.Visible = false;
             // 
-            // sword
+            // swordSprite
             // 
-            this.sword.BackColor = System.Drawing.Color.Transparent;
-            this.sword.BackgroundImage = global::TheQuest.Properties.Resources.sword;
-            this.sword.Location = new System.Drawing.Point(490, 125);
-            this.sword.Name = "sword";
-            this.sword.Size = new System.Drawing.Size(50, 50);
-            this.sword.TabIndex = 6;
-            this.sword.TabStop = false;
-            this.sword.Visible = false;
+            this.swordSprite.BackColor = System.Drawing.Color.Transparent;
+            this.swordSprite.BackgroundImage = global::TheQuest.Properties.Resources.sword;
+            this.swordSprite.Location = new System.Drawing.Point(490, 125);
+            this.swordSprite.Name = "swordSprite";
+            this.swordSprite.Size = new System.Drawing.Size(50, 50);
+            this.swordSprite.TabIndex = 6;
+            this.swordSprite.TabStop = false;
+            this.swordSprite.Visible = false;
             // 
-            // bow
+            // bowSprite
             // 
-            this.bow.BackColor = System.Drawing.Color.Transparent;
-            this.bow.BackgroundImage = global::TheQuest.Properties.Resources.bow;
-            this.bow.Location = new System.Drawing.Point(546, 125);
-            this.bow.Name = "bow";
-            this.bow.Size = new System.Drawing.Size(50, 50);
-            this.bow.TabIndex = 7;
-            this.bow.TabStop = false;
-            this.bow.Visible = false;
+            this.bowSprite.BackColor = System.Drawing.Color.Transparent;
+            this.bowSprite.BackgroundImage = global::TheQuest.Properties.Resources.bow;
+            this.bowSprite.Location = new System.Drawing.Point(546, 125);
+            this.bowSprite.Name = "bowSprite";
+            this.bowSprite.Size = new System.Drawing.Size(50, 50);
+            this.bowSprite.TabIndex = 7;
+            this.bowSprite.TabStop = false;
+            this.bowSprite.Visible = false;
             // 
-            // mace
+            // maceSprite
             // 
-            this.mace.BackColor = System.Drawing.Color.Transparent;
-            this.mace.BackgroundImage = global::TheQuest.Properties.Resources.mace;
-            this.mace.Location = new System.Drawing.Point(602, 125);
-            this.mace.Name = "mace";
-            this.mace.Size = new System.Drawing.Size(50, 50);
-            this.mace.TabIndex = 8;
-            this.mace.TabStop = false;
-            this.mace.Visible = false;
+            this.maceSprite.BackColor = System.Drawing.Color.Transparent;
+            this.maceSprite.BackgroundImage = global::TheQuest.Properties.Resources.mace;
+            this.maceSprite.Location = new System.Drawing.Point(602, 125);
+            this.maceSprite.Name = "maceSprite";
+            this.maceSprite.Size = new System.Drawing.Size(50, 50);
+            this.maceSprite.TabIndex = 8;
+            this.maceSprite.TabStop = false;
+            this.maceSprite.Visible = false;
             // 
             // swordInv
             // 
@@ -464,7 +464,7 @@
             this.BackgroundImage = global::TheQuest.Properties.Resources.dungeon600x400;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1184, 861);
-            this.Controls.Add(this.player);
+            this.Controls.Add(this.playerSprite);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.tableLayoutPanel1);
@@ -473,14 +473,14 @@
             this.Controls.Add(this.maceInv);
             this.Controls.Add(this.bowInv);
             this.Controls.Add(this.swordInv);
-            this.Controls.Add(this.mace);
-            this.Controls.Add(this.bow);
-            this.Controls.Add(this.sword);
-            this.Controls.Add(this.redPotion);
-            this.Controls.Add(this.bluePotion);
-            this.Controls.Add(this.gnoul);
-            this.Controls.Add(this.ghost);
-            this.Controls.Add(this.bat);
+            this.Controls.Add(this.maceSprite);
+            this.Controls.Add(this.bowSprite);
+            this.Controls.Add(this.swordSprite);
+            this.Controls.Add(this.redPotionSprite);
+            this.Controls.Add(this.bluePotionSprite);
+            this.Controls.Add(this.gnoulSprite);
+            this.Controls.Add(this.ghostSprite);
+            this.Controls.Add(this.batSprite);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(1200, 900);
@@ -489,15 +489,15 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "The Quest";
-            ((System.ComponentModel.ISupportInitialize)(this.player)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bat)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ghost)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gnoul)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bluePotion)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.redPotion)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.sword)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bow)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.mace)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.playerSprite)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.batSprite)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ghostSprite)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gnoulSprite)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bluePotionSprite)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.redPotionSprite)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.swordSprite)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bowSprite)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.maceSprite)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.swordInv)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bowInv)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.maceInv)).EndInit();
@@ -513,15 +513,15 @@
 
         #endregion
 
-        private System.Windows.Forms.PictureBox player;
-        private System.Windows.Forms.PictureBox bat;
-        private System.Windows.Forms.PictureBox ghost;
-        private System.Windows.Forms.PictureBox gnoul;
-        private System.Windows.Forms.PictureBox bluePotion;
-        private System.Windows.Forms.PictureBox redPotion;
-        private System.Windows.Forms.PictureBox sword;
-        private System.Windows.Forms.PictureBox bow;
-        private System.Windows.Forms.PictureBox mace;
+        private System.Windows.Forms.PictureBox playerSprite;
+        private System.Windows.Forms.PictureBox batSprite;
+        private System.Windows.Forms.PictureBox ghostSprite;
+        private System.Windows.Forms.PictureBox gnoulSprite;
+        private System.Windows.Forms.PictureBox bluePotionSprite;
+        private System.Windows.Forms.PictureBox redPotionSprite;
+        private System.Windows.Forms.PictureBox swordSprite;
+        private System.Windows.Forms.PictureBox bowSprite;
+        private System.Windows.Forms.PictureBox maceSprite;
         private System.Windows.Forms.PictureBox swordInv;
         private System.Windows.Forms.PictureBox bowInv;
         private System.Windows.Forms.PictureBox maceInv;

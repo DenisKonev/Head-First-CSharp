@@ -27,7 +27,7 @@ namespace TheQuest
 
         private void UpdateCharacters()
         {
-            player.Location = game.PlayerLocation;
+            playerSprite.Location = game.PlayerLocation;
             playerHitPoints.Text = game.PlayerHitPoints.ToString();
             bool showBat = false;
             bool showGhost = false;
@@ -39,7 +39,7 @@ namespace TheQuest
             {
                 if (enemy is Bat)
                 {
-                    bat.Location = enemy.Location;
+                    batSprite.Location = enemy.Location;
                     batHitPoints.Text = enemy.HitPoints.ToString();
                     if (enemy.HitPoints > 0)
                     {
@@ -48,16 +48,17 @@ namespace TheQuest
                     }
                 }
                 // etc...
-                sword.Visible = false;
-                bow.Visible = false;
-                redPotion.Visible = false;
-                bluePotion.Visible = false;
-                mace.Visible = false;
+                swordSprite.Visible = false;
+                bowSprite.Visible = false;
+                redPotionSprite.Visible = false;
+                bluePotionSprite.Visible = false;
+                maceSprite.Visible = false;
                 Control weaponControl = null;
                 switch (game.WeaponInRoom.Name)
                 {
                     case "Sword":
-                        weaponControl = sword; break;
+                        weaponControl = swordSprite; 
+                        break;
                 }
                 weaponControl.Location = game.WeaponInRoom.Location;
                 if (game.WeaponInRoom.PickedUp)

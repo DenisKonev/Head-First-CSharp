@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
+using System.Windows.Forms;
 
 namespace TheQuest
 {
     class Game
     {
-        public IEnumerable<Enemy> Enemies { get; private set; }
+        public List<Enemy> Enemies { get; private set; }
         public Weapon WeaponInRoom { get; private set; }
         private Player player;
         public Point PlayerLocation { get { return player.Location; } }
@@ -63,10 +64,56 @@ namespace TheQuest
             switch (level)
             {
                 case 1:
-                    Enemies = new List<Enemy>() {new Bat(this, GetRandomLocation(random)), };
+                    Enemies = new List<Enemy>() { new Bat(this, GetRandomLocation(random)), };
                     WeaponInRoom = new Sword(this, GetRandomLocation(random));
                     break;
-               //ToDo add another seven levels
+                case 2:
+                    Enemies.Clear();
+                    Enemies.Add(new Ghost(this, GetRandomLocation(random)));
+                    WeaponInRoom = new Sword(this, GetRandomLocation(random));
+                    WeaponInRoom = new BluePotion(this, GetRandomLocation(random));
+                    break;
+                case 3:
+                    Enemies.Clear();
+                    Enemies.Add(new Gnoul(this, GetRandomLocation(random)));
+                    WeaponInRoom = new Bow(this, GetRandomLocation(random));
+                    break;
+                case 4:
+                    Enemies.Clear();
+                    Enemies.Add(new Bat(this, GetRandomLocation(random)));
+                    Enemies.Add(new Ghost(this, GetRandomLocation(random)));
+                    if (!PlayerWeapons.Contains("Bow"))
+                        WeaponInRoom = new Bow(this, GetRandomLocation(random));
+                    else
+                    if (!PlayerWeapons.Contains("Blue Potion"))
+                        WeaponInRoom = new BluePotion(this, GetRandomLocation(random));
+                    break;
+                case 5:
+                    Enemies.Clear();
+                    Enemies.Add(new Bat(this, GetRandomLocation(random)));
+                    Enemies.Add(new Gnoul(this, GetRandomLocation(random)));
+                    WeaponInRoom = new RedPotion(this, GetRandomLocation(random));
+                    break;
+                case 6:
+                    Enemies.Clear();
+                    Enemies.Add(new Ghost(this, GetRandomLocation(random)));
+                    Enemies.Add(new Gnoul(this, GetRandomLocation(random)));
+                    WeaponInRoom = new Mace(this, GetRandomLocation(random));
+                    break;
+                case 7:
+                    Enemies.Clear();
+                    Enemies.Add(new Bat(this, GetRandomLocation(random)));
+                    Enemies.Add(new Ghost(this, GetRandomLocation(random)));
+                    Enemies.Add(new Gnoul(this, GetRandomLocation(random)));
+                    if (!PlayerWeapons.Contains("Mace"))
+                        WeaponInRoom = new Mace(this, GetRandomLocation(random));
+                    else
+                    if (!PlayerWeapons.Contains("Red Potion"))
+                        WeaponInRoom = new RedPotion(this, GetRandomLocation(random));
+                    break;
+                case 8:
+                    Application.Exit();
+                    break;
             }
         }
     }
