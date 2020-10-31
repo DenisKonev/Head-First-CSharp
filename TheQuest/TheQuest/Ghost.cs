@@ -14,7 +14,15 @@ namespace TheQuest
         { }
         public override void Move(Random random)
         {
-            // Your code will go here
+            if (random.Next(1, 3) == 1)
+            {
+                location = Move(FindPlayerDirection(game.PlayerLocation), game.Boundaries);
+            }
+
+            if (NearPlayer())
+            {
+                game.HitPlayer(3, random);
+            }
         }
     }
 }

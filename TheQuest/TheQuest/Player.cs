@@ -54,7 +54,12 @@ namespace TheQuest
         }
         internal void Attack(Direction direction, Random random)
         {
-            // Your code goes here
+            if (equippedWeapon != null)
+            {
+                equippedWeapon.Attack(direction, random);
+                if (equippedWeapon is iPotion)
+                    inventory.RemoveAt(inventory.IndexOf(equippedWeapon));
+            }
         }
     }
 }
