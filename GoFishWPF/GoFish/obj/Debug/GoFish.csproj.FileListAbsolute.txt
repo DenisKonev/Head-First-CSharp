@@ -1,0 +1,32 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\bin\Debug\GoFish.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\bin\Debug\GoFish.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\bin\Debug\GoFish.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\GoFish.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\MainWindow.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\App.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\GoFish_MarkupCompile.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\GoFish_MarkupCompile.lref
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\MainWindow.baml
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\GoFish.g.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\GoFish.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\GoFish.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\GoFish.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\GoFish.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_10\GoFish\GoFish\obj\Debug\GoFish.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\bin\Debug\GoFish.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\bin\Debug\GoFish.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\bin\Debug\GoFish.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\GoFish.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\MainWindow.g.cs
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\App.g.cs
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\GoFish_MarkupCompile.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\GoFish_MarkupCompile.lref
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\MainWindow.baml
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\GoFish.g.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\GoFish.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\GoFish.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\GoFish.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\GoFish.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GoFishWPF\GoFish\obj\Debug\GoFish.pdb
