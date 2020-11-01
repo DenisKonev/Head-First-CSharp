@@ -11,11 +11,12 @@ namespace TheQuest
     {
         public BluePotion(Game game, Point location)
             : base(game, location) { }
-        public bool Used { get; }
+        public bool Used { get; private set; }
         public override string Name { get { return "Blue Potion"; } }
         public override void Attack(Direction direction, Random random)
         {
-            // Your code goes here
+            game.IncreasePlayerHealth(5, random);
+            Used = true;
         }
     }
 }

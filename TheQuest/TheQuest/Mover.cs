@@ -10,7 +10,6 @@ namespace TheQuest
     abstract class Mover
     {
         private const int MoveInterval = 20;
-        private const int NearEnemyDistance = 20;
         protected Point location;
         public Point Location { get { return location; } }
         protected Game game;
@@ -28,7 +27,7 @@ namespace TheQuest
         }
         public bool Nearby(Point enemyLocation, Point playerLocation, int distance)
         {
-            if (Math.Abs(enemyLocation.X - playerLocation.X) < (NearEnemyDistance * distance) && (Math.Abs(enemyLocation.Y - playerLocation.Y) < (NearEnemyDistance * distance)))
+            if (Math.Abs(enemyLocation.X - playerLocation.X) < distance && (Math.Abs(enemyLocation.Y - playerLocation.Y) < distance))
                 return true;
             else
                 return false;

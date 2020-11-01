@@ -108,20 +108,20 @@ namespace TheQuest
                 swordInv.Visible = true;
             if (game.CheckPlayerInventory("Bow"))
                 bowInv.Visible = true;
-            if (game.CheckPlayerInventory("RedPotion"))
+            if (game.CheckPlayerInventory("Red Potion"))
             {
-                if ((game.CheckPotionInventory("RedPotion")) == false)
+                if ((game.CheckPotionInventory("Red Potion")) == false)
                     redPotionInv.Visible = true;
                 else
                     redPotionInv.Visible = false;
             }
-            if (game.CheckPlayerInventory("BluePotion"))
+            if (game.CheckPlayerInventory("Blue Potion"))
             {
-                if ((game.CheckPotionInventory("BluePotion")) == false)
+                if ((game.CheckPotionInventory("Blue Potion")) == false)
                     bluePotionInv.Visible = true;
                 else
                 {
-                    RemovePotionFromInventory("BluePotion");
+                    RemovePotionFromInventory("Blue Potion");
                 }
             }
             if (game.CheckPlayerInventory("Mace"))
@@ -149,13 +149,12 @@ namespace TheQuest
                 game.NewLevel(random);
                 UpdateCharacters();
             }
-            Application.DoEvents();
         }
         private void RemovePotionFromInventory(string PotionName)
         {
-            if (PotionName == "BluePotion")
+            if (PotionName == "Blue Potion")
                 bluePotionInv.Visible = false;
-            if (PotionName == "RedPotion")
+            if (PotionName == "Red Potion")
                 redPotionInv.Visible = false;
         }
         private void swordInv_Click(object sender, EventArgs e)
@@ -207,6 +206,8 @@ namespace TheQuest
             attackRightButton.Visible = false;
             attackDownButton.Visible = false;
             attackUpButton.Text = "Drink";
+            attackUpButton.Width = 90;
+            attackUpButton.Height = 40;
         }
         private void uhideAttackButtons()
         {
@@ -214,6 +215,8 @@ namespace TheQuest
             attackRightButton.Visible = true;
             attackDownButton.Visible = true;
             attackUpButton.Text = "↑";
+            attackUpButton.Width = 40;
+            attackUpButton.Height = 40;
         }
         private void moveUpButton_Click(object sender, EventArgs e)
         {

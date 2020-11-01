@@ -22,7 +22,7 @@ namespace TheQuest
         public Player(Game game, Point location)
         : base(game, location)
         {
-            HitPoints = 10;
+            HitPoints = 100;
         }
         public void Hit(int maxDamage, Random random)
         {
@@ -44,12 +44,16 @@ namespace TheQuest
         {
             IPotion potionToCheck;
             bool checkUsed = false;
-            foreach (Weapon weapon in inventory)
-                if ((weapon.Name == potionName) && (weapon is Weapon))
+            foreach (Weapon weapon in inventory.ToArray())
+                if (weapon.Name == potionName)
                 {
                     potionToCheck = weapon as IPotion;
                     if (potionToCheck.Used == true)
+                    { 
                         checkUsed = true;
+                        inventory.Remove(potionToCheck as Weapon);
+                    }
+                      
                     else
                         checkUsed = false;
                 }
@@ -71,9 +75,24 @@ namespace TheQuest
         {
             if (equippedWeapon != null)
             {
-                equippedWeapon.Attack(direction, random);
                 if (equippedWeapon is IPotion)
-                    inventory.RemoveAt(inventory.IndexOf(equippedWeapon));
+                {
+                    if (equippedWeapon.Name == "Blue Potion")
+                    {
+                        BluePotion currentWeapon = equippedWeapon as BluePotion;
+                        currentWeapon.Attack(direction, random);
+                        equippedWeapon = null;
+
+                    }
+                    else
+                    {
+                        RedPotion currentWeapon = equippedWeapon as RedPotion;
+                        currentWeapon.Attack(direction, random);
+                        equippedWeapon = null;
+                    }
+                }
+                else
+                    equippedWeapon.Attack(direction, random);
             }
         }
     }

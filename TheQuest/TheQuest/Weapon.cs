@@ -14,7 +14,7 @@ namespace TheQuest
         protected bool DamageEnemy(Direction direction, int radius, int damage, Random random)
         {
             Point target = game.PlayerLocation;
-            for (int distance = 0; distance < radius; distance++)
+            for (int distance = 0; distance <= radius; distance++)
             {
                 foreach (Enemy enemy in game.Enemies)
                 {
@@ -24,7 +24,6 @@ namespace TheQuest
                         return true;
                     }
                 }
-                target = Move(direction, target, game.Boundaries);
             }
             return false;
         }

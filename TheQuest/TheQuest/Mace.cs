@@ -14,12 +14,12 @@ namespace TheQuest
         public override string Name { get { return "Mace"; } }
         public override void Attack(Direction direction, Random random)
         {
-            if (!DamageEnemy(direction, 20, 6, random))
+            if (!DamageEnemy(direction, 40, 6, random))
             {
                 Direction nextAttackDirection = CounterClockWiseDirection(direction);
                 for (int i = 0; i < 3; i++)
                 {
-                    if (DamageEnemy(nextAttackDirection, 20, 6, random))
+                    if (DamageEnemy(nextAttackDirection, 40, 6, random))
                     {
                         break;
                     }
