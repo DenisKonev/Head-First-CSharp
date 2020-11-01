@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TheQuest
 {
-    class RedPotion : Weapon, iPotion
+    class RedPotion : Weapon, IPotion
     {
         public RedPotion(Game game, Point location)
             : base(game, location) { }

@@ -28,5 +28,49 @@ namespace TheQuest
             }
             return false;
         }
+        protected Direction ClockwiseDirection(Direction direction)
+        {
+            Direction clockWiseDirection = direction;
+
+            switch (direction)
+            {
+                case Direction.Up:
+                    clockWiseDirection = Direction.Right;
+                    break;
+                case Direction.Right:
+                    clockWiseDirection = Direction.Down;
+                    break;
+                case Direction.Down:
+                    clockWiseDirection = Direction.Left;
+                    break;
+                case Direction.Left:
+                    clockWiseDirection = Direction.Up;
+                    break;
+            }
+
+            return clockWiseDirection;
+        }
+        protected Direction CounterClockWiseDirection(Direction direction)
+        {
+            Direction counterClockWiseDirection = direction;
+
+            switch (direction)
+            {
+                case Direction.Up:
+                    counterClockWiseDirection = Direction.Left;
+                    break;
+                case Direction.Right:
+                    counterClockWiseDirection = Direction.Up;
+                    break;
+                case Direction.Down:
+                    counterClockWiseDirection = Direction.Right;
+                    break;
+                case Direction.Left:
+                    counterClockWiseDirection = Direction.Down;
+                    break;
+            }
+
+            return counterClockWiseDirection;
+        }
     }
 }

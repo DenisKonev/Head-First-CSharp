@@ -40,12 +40,27 @@ namespace TheQuest
                     equippedWeapon = weapon;
             }
         }
+        public bool CheckPotionUsed(string potionName)
+        {
+            IPotion potionToCheck;
+            bool checkUsed = false;
+            foreach (Weapon weapon in inventory)
+                if ((weapon.Name == potionName) && (weapon is Weapon))
+                {
+                    potionToCheck = weapon as IPotion;
+                    if (potionToCheck.Used == true)
+                        checkUsed = true;
+                    else
+                        checkUsed = false;
+                }
+            return checkUsed;
+        }
         public void Move(Direction direction)
         {
             base.location = Move(direction, game.Boundaries);
             if (!game.WeaponInRoom.PickedUp)
             {
-                if (this.Nearby(game.WeaponInRoom.Location, 10))
+                if (this.Nearby(game.WeaponInRoom.Location, 20))
                 {
                     inventory.Add(game.WeaponInRoom);
                     game.WeaponInRoom.PickUpWeapon();
@@ -57,7 +72,7 @@ namespace TheQuest
             if (equippedWeapon != null)
             {
                 equippedWeapon.Attack(direction, random);
-                if (equippedWeapon is iPotion)
+                if (equippedWeapon is IPotion)
                     inventory.RemoveAt(inventory.IndexOf(equippedWeapon));
             }
         }

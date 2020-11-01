@@ -9,7 +9,8 @@ namespace TheQuest
 {
     abstract class Mover
     {
-        private const int MoveInterval = 10;
+        private const int MoveInterval = 20;
+        private const int NearEnemyDistance = 20;
         protected Point location;
         public Point Location { get { return location; } }
         protected Game game;
@@ -21,6 +22,13 @@ namespace TheQuest
         public bool Nearby(Point locationToCheck, int distance)
         {
             if (Math.Abs(location.X - locationToCheck.X) < distance && (Math.Abs(location.Y - locationToCheck.Y) < distance))
+                return true;
+            else
+                return false;
+        }
+        public bool Nearby(Point enemyLocation, Point playerLocation, int distance)
+        {
+            if (Math.Abs(enemyLocation.X - playerLocation.X) < (NearEnemyDistance * distance) && (Math.Abs(enemyLocation.Y - playerLocation.Y) < (NearEnemyDistance * distance)))
                 return true;
             else
                 return false;
@@ -49,6 +57,40 @@ namespace TheQuest
                 default: break;
             }
             return newLocation;
+        }
+        public Point Move(Direction direction, Point playerLocation, Rectangle gameBoundaries)
+        {
+            Point newPlayerLocation = playerLocation;
+            switch (direction)
+            {
+                case Direction.Up:
+                    if (newPlayerLocation.Y - MoveInterval >= gameBoundaries.Top)
+                    {
+                        newPlayerLocation.Y -= MoveInterval;
+                    }
+                    break;
+                case Direction.Down:
+                    if (newPlayerLocation.Y + MoveInterval <= gameBoundaries.Bottom)
+                    {
+                        newPlayerLocation.Y += MoveInterval;
+                    }
+                    break;
+                case Direction.Left:
+                    if (newPlayerLocation.X - MoveInterval >= gameBoundaries.Left)
+                    {
+                        newPlayerLocation.X -= MoveInterval;
+                    }
+                    break;
+                case Direction.Right:
+                    if (newPlayerLocation.X + MoveInterval <= gameBoundaries.Right)
+                    {
+                        newPlayerLocation.X += MoveInterval;
+                    }
+                    break;
+                default: break;
+            }
+
+            return newPlayerLocation;
         }
     }
 }

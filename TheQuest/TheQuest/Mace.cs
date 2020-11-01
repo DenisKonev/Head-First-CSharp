@@ -14,7 +14,18 @@ namespace TheQuest
         public override string Name { get { return "Mace"; } }
         public override void Attack(Direction direction, Random random)
         {
-            // Your code goes here
+            if (!DamageEnemy(direction, 20, 6, random))
+            {
+                Direction nextAttackDirection = CounterClockWiseDirection(direction);
+                for (int i = 0; i < 3; i++)
+                {
+                    if (DamageEnemy(nextAttackDirection, 20, 6, random))
+                    {
+                        break;
+                    }
+                    nextAttackDirection = CounterClockWiseDirection(direction);
+                }
+            }
         }
     }
 }

@@ -14,7 +14,7 @@ namespace TheQuest
         public override string Name { get { return "Bow"; } }
         public override void Attack(Direction direction, Random random)
         {
-            // Your code goes here
+            DamageEnemy(direction, 30, 1, random);
         }
     }
 }

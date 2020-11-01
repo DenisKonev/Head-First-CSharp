@@ -23,7 +23,7 @@ namespace TheQuest
         public Game(Rectangle boundaries)
         {
             this.boundaries = boundaries;
-            player = new Player(this, new Point(boundaries.Left + 10, boundaries.Top + 70));
+            player = new Player(this, new Point(boundaries.Left + 10, boundaries.Top + 170));
         }
         public void Move(Direction direction, Random random)
         {
@@ -38,6 +38,11 @@ namespace TheQuest
         public bool CheckPlayerInventory(string weaponName)
         {
             return player.Weapons.Contains(weaponName);
+        }
+        public bool CheckPotionInventory(string potionName)
+        {
+
+            return player.CheckPotionUsed(potionName);
         }
         public void HitPlayer(int maxDamage, Random random)
         {
