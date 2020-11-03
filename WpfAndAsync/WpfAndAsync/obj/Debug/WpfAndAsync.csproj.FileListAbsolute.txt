@@ -1,0 +1,28 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\bin\Debug\WpfAndAsync.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\bin\Debug\WpfAndAsync.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\bin\Debug\WpfAndAsync.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\obj\Debug\MainWindow.baml
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\obj\Debug\MainWindow.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\obj\Debug\App.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync_MarkupCompile.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.g.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_11\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\bin\Debug\WpfAndAsync.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\bin\Debug\WpfAndAsync.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\bin\Debug\WpfAndAsync.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\obj\Debug\MainWindow.baml
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\obj\Debug\MainWindow.g.cs
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\obj\Debug\App.g.cs
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync_MarkupCompile.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.g.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\WpfAndAsync\WpfAndAsync\obj\Debug\WpfAndAsync.pdb
