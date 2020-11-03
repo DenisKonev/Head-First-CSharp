@@ -1,0 +1,16 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\bin\Debug\GuySerializer.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\bin\Debug\GuySerializer.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\bin\Debug\GuySerializer.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\GuySerializer.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\MainWindow.g.cs
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\App.g.cs
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\GuySerializer_MarkupCompile.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\GuySerializer_MarkupCompile.lref
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\MainWindow.baml
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\GuySerializer.g.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\GuySerializer.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\GuySerializer.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\GuySerializer.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\GuySerializer.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\GuySerializer\GuySerializer\obj\Debug\GuySerializer.pdb
