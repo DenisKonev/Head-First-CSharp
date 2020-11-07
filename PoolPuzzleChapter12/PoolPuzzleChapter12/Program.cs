@@ -16,9 +16,10 @@ namespace PoolPuzzleChapter12
             {
                 Console.WriteLine((15 / koala) + " eggs per pound");
             }
-            catch (___________________)
+            catch (DivideByZeroException)
             {
                 Console.WriteLine("G’Day Mate!");
+                Console.ReadKey();
             }
         }
     }

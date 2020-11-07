@@ -14,12 +14,12 @@ namespace PoolPuzzleChapter12
         int dingo = 0;
         public int Wombat(int wallaby)
         {
-            _______ __;
+            dingo++;
             try
             {
                 if (wallaby > 0)
                 {
-                    fs = fs.OpenWrite("wobbiegong");
+                    fs = File.OpenWrite("wobbiegong");
                     croc = 0;
                 }
                 else if (wallaby < 0)
@@ -28,7 +28,7 @@ namespace PoolPuzzleChapter12
                 }
                 else
                 {
-                    ___ = _____.OpenRead("wobbiegong");
+                    fs = File.OpenRead("wobbiegong");
                     croc = 1;
                 }
             }
@@ -42,11 +42,12 @@ namespace PoolPuzzleChapter12
             }
             finally
             {
-                if (______ > 2)
+                if (dingo > 2)
                 {
-                    croc ___ dingo;
+                    croc -= dingo;
                 }
             }
-            return ______;
+            return croc;
         }
+    }
 }
