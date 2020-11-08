@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,20 +22,37 @@ namespace ExcuseManager
         public Excuse(Random random, string folder) 
         {
             string[] fileNames = Directory.GetFiles(folder, "*.dat");
-            OpenFile(fileNames[random.Next(fileNames.Length)]);
+            try 
+            { 
+                OpenFile(fileNames[random.Next(fileNames.Length)]); 
+            }
+            catch (IndexOutOfRangeException)
+            {
+                MessageBox.Show("No excuse files exist");
+                LastUsed = DateTime.Now;
+            }
+            
         }
         public void OpenFile(string excusePath)
         {
-            this.ExcusePath = excusePath;
-            BinaryFormatter formatter = new BinaryFormatter();
-            Excuse tempExcuse;
-            using (Stream input = File.OpenRead(excusePath))
+            try
             {
-                tempExcuse = (Excuse)formatter.Deserialize(input);
+                this.ExcusePath = excusePath;
+                BinaryFormatter formatter = new BinaryFormatter();
+                Excuse tempExcuse;
+                using (Stream input = File.OpenRead(excusePath))
+                {
+                    tempExcuse = (Excuse)formatter.Deserialize(input);
+                }
+                Description = tempExcuse.Description;
+                Results = tempExcuse.Results;
+                LastUsed = tempExcuse.LastUsed;
             }
-            Description = tempExcuse.Description;
-            Results = tempExcuse.Results;
-            LastUsed = tempExcuse.LastUsed;
+            catch (SerializationException)
+            {
+                MessageBox.Show("Unable to read " + excusePath);
+                LastUsed = DateTime.Now;
+            }
         }
         public void Save(string fileName) 
         {
