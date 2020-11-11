@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Chapter_13\DogAndCanine\DogAndCanine\bin\Debug\DogAndCanine.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Chapter_13\DogAndCanine\DogAndCanine\bin\Debug\DogAndCanine.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Chapter_13\DogAndCanine\DogAndCanine\bin\Debug\DogAndCanine.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Chapter_13\DogAndCanine\DogAndCanine\obj\Debug\DogAndCanine.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Chapter_13\DogAndCanine\DogAndCanine\obj\Debug\DogAndCanine.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Chapter_13\DogAndCanine\DogAndCanine\obj\Debug\DogAndCanine.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Chapter_13\DogAndCanine\DogAndCanine\obj\Debug\DogAndCanine.pdb
