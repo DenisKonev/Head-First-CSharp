@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DisposeVersusFinalizer\bin\Debug\DisposeVersusFinalizer.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DisposeVersusFinalizer\bin\Debug\DisposeVersusFinalizer.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DisposeVersusFinalizer\bin\Debug\DisposeVersusFinalizer.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DisposeVersusFinalizer\obj\Debug\DisposeVersusFinalizer.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DisposeVersusFinalizer\obj\Debug\DisposeVersusFinalizer.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DisposeVersusFinalizer\obj\Debug\DisposeVersusFinalizer.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DisposeVersusFinalizer\obj\Debug\DisposeVersusFinalizer.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DisposeVersusFinalizer\obj\Debug\DisposeVersusFinalizer.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DisposeVersusFinalizer\obj\Debug\DisposeVersusFinalizer.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\DisposeVersusFinalizer\obj\Debug\DisposeVersusFinalizer.pdb
