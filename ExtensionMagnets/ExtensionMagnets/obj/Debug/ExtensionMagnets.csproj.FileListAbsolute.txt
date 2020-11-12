@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtensionMagnets\ExtensionMagnets\bin\Debug\ExtensionMagnets.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtensionMagnets\ExtensionMagnets\bin\Debug\ExtensionMagnets.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtensionMagnets\ExtensionMagnets\bin\Debug\ExtensionMagnets.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtensionMagnets\ExtensionMagnets\obj\Debug\ExtensionMagnets.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtensionMagnets\ExtensionMagnets\obj\Debug\ExtensionMagnets.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtensionMagnets\ExtensionMagnets\obj\Debug\ExtensionMagnets.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtensionMagnets\ExtensionMagnets\obj\Debug\ExtensionMagnets.pdb
