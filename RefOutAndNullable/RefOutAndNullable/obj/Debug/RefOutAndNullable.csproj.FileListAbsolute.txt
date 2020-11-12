@@ -1,0 +1,10 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RefOutAndNullable\RefOutAndNullable\bin\Debug\RefOutAndNullable.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RefOutAndNullable\RefOutAndNullable\bin\Debug\RefOutAndNullable.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RefOutAndNullable\RefOutAndNullable\bin\Debug\RefOutAndNullable.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RefOutAndNullable\RefOutAndNullable\obj\Debug\RefOutAndNullable.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RefOutAndNullable\RefOutAndNullable\obj\Debug\RefOutAndNullable.Form1.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RefOutAndNullable\RefOutAndNullable\obj\Debug\RefOutAndNullable.Properties.Resources.resources
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RefOutAndNullable\RefOutAndNullable\obj\Debug\RefOutAndNullable.csproj.GenerateResource.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RefOutAndNullable\RefOutAndNullable\obj\Debug\RefOutAndNullable.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RefOutAndNullable\RefOutAndNullable\obj\Debug\RefOutAndNullable.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RefOutAndNullable\RefOutAndNullable\obj\Debug\RefOutAndNullable.pdb

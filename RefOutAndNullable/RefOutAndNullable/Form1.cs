@@ -41,7 +41,7 @@ namespace RefOutAndNullable
             int i = value;
             i *= 5;
             value = i - 3;
-            button = button1;
+            button = button2;
         }
 
         private void button2_Click(object sender, EventArgs e)
