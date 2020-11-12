@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ValuesVsReferences\ValuesVsReferences\bin\Debug\ValuesVsReferences.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ValuesVsReferences\ValuesVsReferences\bin\Debug\ValuesVsReferences.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ValuesVsReferences\ValuesVsReferences\bin\Debug\ValuesVsReferences.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ValuesVsReferences\ValuesVsReferences\obj\Debug\ValuesVsReferences.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ValuesVsReferences\ValuesVsReferences\obj\Debug\ValuesVsReferences.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ValuesVsReferences\ValuesVsReferences\obj\Debug\ValuesVsReferences.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ValuesVsReferences\ValuesVsReferences\obj\Debug\ValuesVsReferences.pdb
