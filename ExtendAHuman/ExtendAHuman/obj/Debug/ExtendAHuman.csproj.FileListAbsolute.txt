@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtendAHuman\ExtendAHuman\bin\Debug\ExtendAHuman.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtendAHuman\ExtendAHuman\bin\Debug\ExtendAHuman.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtendAHuman\ExtendAHuman\bin\Debug\ExtendAHuman.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtendAHuman\ExtendAHuman\obj\Debug\ExtendAHuman.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtendAHuman\ExtendAHuman\obj\Debug\ExtendAHuman.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtendAHuman\ExtendAHuman\obj\Debug\ExtendAHuman.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\ExtendAHuman\ExtendAHuman\obj\Debug\ExtendAHuman.pdb
