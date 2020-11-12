@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RobustGuy\RobustGuy\bin\Debug\RobustGuy.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RobustGuy\RobustGuy\bin\Debug\RobustGuy.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RobustGuy\RobustGuy\bin\Debug\RobustGuy.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RobustGuy\RobustGuy\obj\Debug\RobustGuy.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RobustGuy\RobustGuy\obj\Debug\RobustGuy.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RobustGuy\RobustGuy\obj\Debug\RobustGuy.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\RobustGuy\RobustGuy\obj\Debug\RobustGuy.pdb
