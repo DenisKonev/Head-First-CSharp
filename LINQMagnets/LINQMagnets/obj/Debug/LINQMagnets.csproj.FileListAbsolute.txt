@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\LINQMagnets\LINQMagnets\bin\Debug\LINQMagnets.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\LINQMagnets\LINQMagnets\bin\Debug\LINQMagnets.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\LINQMagnets\LINQMagnets\bin\Debug\LINQMagnets.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\LINQMagnets\LINQMagnets\obj\Debug\LINQMagnets.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\LINQMagnets\LINQMagnets\obj\Debug\LINQMagnets.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\LINQMagnets\LINQMagnets\obj\Debug\LINQMagnets.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\LINQMagnets\LINQMagnets\obj\Debug\LINQMagnets.pdb
