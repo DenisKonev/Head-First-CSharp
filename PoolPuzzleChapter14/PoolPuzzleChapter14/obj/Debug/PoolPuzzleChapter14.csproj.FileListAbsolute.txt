@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\PoolPuzzleChapter14\PoolPuzzleChapter14\obj\Debug\PoolPuzzleChapter14.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\PoolPuzzleChapter14\PoolPuzzleChapter14\obj\Debug\PoolPuzzleChapter14.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\PoolPuzzleChapter14\PoolPuzzleChapter14\bin\Debug\PoolPuzzleChapter14.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\PoolPuzzleChapter14\PoolPuzzleChapter14\bin\Debug\PoolPuzzleChapter14.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\PoolPuzzleChapter14\PoolPuzzleChapter14\bin\Debug\PoolPuzzleChapter14.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\PoolPuzzleChapter14\PoolPuzzleChapter14\obj\Debug\PoolPuzzleChapter14.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\PoolPuzzleChapter14\PoolPuzzleChapter14\obj\Debug\PoolPuzzleChapter14.pdb
