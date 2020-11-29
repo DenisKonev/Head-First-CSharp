@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover10\Leftover10\bin\Debug\Leftover10.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover10\Leftover10\bin\Debug\Leftover10.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover10\Leftover10\bin\Debug\Leftover10.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover10\Leftover10\obj\Debug\Leftover10.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover10\Leftover10\obj\Debug\Leftover10.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover10\Leftover10\obj\Debug\Leftover10.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover10\Leftover10\obj\Debug\Leftover10.pdb

@@ -1,0 +1,6 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Leftovers_Appendix\Headfirst.Csharp.Leftover3\Headfirst.Csharp.Leftover3\bin\Debug\Headfirst.Csharp.Leftover3.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Leftovers_Appendix\Headfirst.Csharp.Leftover3\Headfirst.Csharp.Leftover3\bin\Debug\Headfirst.Csharp.Leftover3.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Leftovers_Appendix\Headfirst.Csharp.Leftover3\Headfirst.Csharp.Leftover3\obj\Debug\Headfirst.Csharp.Leftover3.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Leftovers_Appendix\Headfirst.Csharp.Leftover3\Headfirst.Csharp.Leftover3\obj\Debug\Headfirst.Csharp.Leftover3.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Leftovers_Appendix\Headfirst.Csharp.Leftover3\Headfirst.Csharp.Leftover3\obj\Debug\Headfirst.Csharp.Leftover3.dll
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\Leftovers_Appendix\Headfirst.Csharp.Leftover3\Headfirst.Csharp.Leftover3\obj\Debug\Headfirst.Csharp.Leftover3.pdb

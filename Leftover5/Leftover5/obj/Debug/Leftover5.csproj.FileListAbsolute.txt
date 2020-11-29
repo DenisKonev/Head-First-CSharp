@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover5\Leftover5\bin\Debug\Leftover5.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover5\Leftover5\bin\Debug\Leftover5.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover5\Leftover5\bin\Debug\Leftover5.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover5\Leftover5\obj\Debug\Leftover5.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover5\Leftover5\obj\Debug\Leftover5.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover5\Leftover5\obj\Debug\Leftover5.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover5\Leftover5\obj\Debug\Leftover5.pdb

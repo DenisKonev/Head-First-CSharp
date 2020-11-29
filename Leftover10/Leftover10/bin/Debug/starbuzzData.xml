@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Starbuzz Customer Loyalty Data-->
+<starbuzzData storeName="Park Slope" location="Brooklyn, NY">
+  <person>
+    <personalInfo>
+      <name>Janet Venutian</name>
+      <zip>11215</zip>
+    </personalInfo>
+    <favoriteDrink>Choco Macchiato</favoriteDrink>
+    <moneySpent>255</moneySpent>
+    <visits>50</visits>
+  </person>
+  <person>
+    <personalInfo>
+      <name>Liz Nelson</name>
+      <zip>11238</zip>
+    </personalInfo>
+    <favoriteDrink>Double Cappuccino</favoriteDrink>
+    <moneySpent>150</moneySpent>
+    <visits>35</visits>
+  </person>
+  <person>
+    <personalInfo>
+      <name>Matt Franks</name>
+      <zip>11217</zip>
+    </personalInfo>
+    <favoriteDrink>Zesty Lemon Chai</favoriteDrink>
+    <moneySpent>75</moneySpent>
+    <visits>15</visits>
+  </person>
+  <person>
+    <personalInfo>
+      <name>Joe Ng</name>
+      <zip>11217</zip>
+    </personalInfo>
+    <favoriteDrink>Banana Split in a Cup</favoriteDrink>
+    <moneySpent>60</moneySpent>
+    <visits>10</visits>
+  </person>
+  <person>
+    <personalInfo>
+      <name>Sarah Kalter</name>
+      <zip>11215</zip>
+    </personalInfo>
+    <favoriteDrink>Boring Coffee</favoriteDrink>
+    <moneySpent>110</moneySpent>
+    <visits>15</visits>
+  </person>
+</starbuzzData>

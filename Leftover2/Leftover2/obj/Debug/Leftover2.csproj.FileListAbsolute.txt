@@ -1,0 +1,7 @@
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover2\Leftover2\bin\Debug\Leftover2.exe.config
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover2\Leftover2\bin\Debug\Leftover2.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover2\Leftover2\bin\Debug\Leftover2.pdb
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover2\Leftover2\obj\Debug\Leftover2.csprojAssemblyReference.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover2\Leftover2\obj\Debug\Leftover2.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover2\Leftover2\obj\Debug\Leftover2.exe
+D:\Users\PhoEniX\Documents\GitHub\Head-First-CSharp\Leftover2\Leftover2\obj\Debug\Leftover2.pdb
