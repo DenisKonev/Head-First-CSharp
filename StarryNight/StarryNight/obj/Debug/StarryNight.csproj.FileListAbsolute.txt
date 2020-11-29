@@ -1,0 +1,25 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\bin\Debug\Bee animation 1.png
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\bin\Debug\Bee animation 2.png
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\bin\Debug\Bee animation 3.png
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\bin\Debug\Bee animation 4.png
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\bin\Debug\StarryNight.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\bin\Debug\StarryNight.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\bin\Debug\StarryNight.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\StarryNight.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\View\AnimatedImage.baml
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\View\StarControl.baml
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\View\AnimatedImage.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\View\BeesOnAStarryNight.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\View\StarControl.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\App.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\StarryNight_Content.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\StarryNight_MarkupCompile.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\StarryNight_MarkupCompile.lref
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\View\BeesOnAStarryNight.baml
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\StarryNight.g.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\StarryNight.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\StarryNight.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\StarryNight.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\StarryNight.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\StarryNight\StarryNight\obj\Debug\StarryNight.pdb
