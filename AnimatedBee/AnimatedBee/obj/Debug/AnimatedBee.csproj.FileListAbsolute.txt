@@ -1,0 +1,23 @@
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\bin\Debug\Bee animation 1.png
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\bin\Debug\Bee animation 2.png
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\bin\Debug\Bee animation 3.png
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\bin\Debug\Bee animation 4.png
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\bin\Debug\AnimatedBee.exe.config
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\bin\Debug\AnimatedBee.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\bin\Debug\AnimatedBee.pdb
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.csprojAssemblyReference.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\View\AnimatedImage.baml
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\View\AnimatedImage.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\View\FlyingBees.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\App.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee_Content.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee_MarkupCompile.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee_MarkupCompile.lref
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\View\FlyingBees.baml
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.g.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.Properties.Resources.resources
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.csproj.GenerateResource.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.csproj.CoreCompileInputs.cache
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.exe
+D:\Users\PhoEniX\YandexDisk\Education\Programming\C#\Books\Head First Csharp\Code examples\WPF\Chapter_16\AnimatedBee\AnimatedBee\obj\Debug\AnimatedBee.pdb
